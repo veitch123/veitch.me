@@ -1,0 +1,12 @@
+{
+  "name": "James Veitch",
+  "short_name": "Veitch",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFBF7",
+  "theme_color": "#111F45",
+  "icons": [
+    { "src": "/assets/img/favicon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
